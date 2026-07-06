@@ -1,0 +1,4 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Field4,Field5
+"D1, D10, D11, D12, D2, D3, D4, D5, D6, D7, D8, D9",12,~,Diode_DO-35,,,,tht,,
+"S1, S10, S11, S12, S2, S3, S4, S5, S6, S7, S8, S9",12,~,MX_PCB_1.00u,,,,tht,,
+U1,1,Arduino_Pro_Micro,Arduino_Pro_Micro,,,,tht,GND,D7

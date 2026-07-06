@@ -1,0 +1,6 @@
+Placement file: 'C:\Users\mycom\Downloads\kicad files\keyboard2\keyboard2-all-pos.csv'.
+Info: Component count: 25.
+Info: Done.
+Placement file: 'C:\Users\mycom\Downloads\kicad files\keyboard2\keyboard2-all-pos.csv'.
+Info: Component count: 25.
+Info: Done.
